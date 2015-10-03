@@ -1,2 +1,4 @@
+
 # Mathieu-MICHEL.github.io
-Un premier essai pour la mise en ligne d'une plateforme collaborative dédiée à la micro-assurance.
+
+Ma page personnelle, pointant vers divers sites et projets en cours. 
