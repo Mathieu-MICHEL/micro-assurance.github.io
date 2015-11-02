@@ -1,4 +1,3 @@
-
 # Mathieu-MICHEL.github.io
 
-Ma page personnelle, pointant vers divers sites et projets en cours. 
+Ma page personnelle : mes coordonnées publiques et les liens vers mes projets web actuels.
