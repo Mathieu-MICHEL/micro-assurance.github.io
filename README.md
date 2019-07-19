@@ -1,3 +1,3 @@
 # Mathieu-MICHEL.github.io
 
-Ma page personnelle : mes coordonnées publiques et les liens vers mes projets web actuels.
+My personal webpage: my public links and current projects.
