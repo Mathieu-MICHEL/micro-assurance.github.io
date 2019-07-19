@@ -1,9 +1,18 @@
 html {
   height: 100%;	
 }
+
+h1 {
+  font-family: Georgia, serif;
+  text-align: center;
+  font-size = small;
+} 
+
+
 body {
-  min-height:100%;
-  font-family: Trebuchet MS;
+  min-height:50%;
+  max-height:80%;
+  font-family: Georgia, serif;
   text-align: center;
   
 } 
@@ -11,7 +20,7 @@ body {
 main {
 	margin-left:auto;
 	margin-right: auto;
-	width: 70%;
+	width: 80%;
 	padding: 20px;
 	border : black;
 	color: white;
@@ -27,6 +36,6 @@ A.lien2 {
 }
 
 footer {
-	padding: 20px;
+	padding: 5px;
 	color: grey;
 }
