@@ -120,6 +120,6 @@ social:
 highlight_name: true
 ---
 
-I am now an international development professional, trained as a data analyst, and trying to keep up with data science advancements, using R mostly.
-My current position is with the Lagos State Employment Trust Fund and GIZ, managing training projects and building labour market analytics.
+Working in international cooperation, and trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly.
+My current position is at the Lagos State Employment Trust Fund in Nigeria, seconded from the German international cooperation agency GIZ: I manage with a small team several training projects and the development of labour market analytics tools. 
 {style="text-align: justify;"}
