@@ -123,6 +123,6 @@ social:
 highlight_name: true
 ---
 
-Working in international cooperation, and trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly.
-My current position is at the Lagos State Employment Trust Fund in Nigeria, seconded from the German international cooperation agency GIZ: I manage with a small team several training projects and the development of labour market analytics tools. 
+I am Mathieu, working on international cooperation projects, and trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly.
+My current position is at the Lagos State Employment Trust Fund in Nigeria, seconded from the German international cooperation agency GIZ: I manage in a small team several training projects and the development of labour market analytics tools. I use this page primarily as a pet project/continuing education homework, but also to showcase some publicly available digital products and facilitate networking. If you resonate with the work, feel free to engage on social media, best,  
 {style="text-align: justify;"}
