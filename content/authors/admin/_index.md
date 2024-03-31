@@ -37,11 +37,14 @@ interests:
 education:
   courses:
     - course: Specialized Master in Microfinance
-      institution: Université Libre de Bruxelles / Solvay Brussels School of Economics and Management
+      institution: Solvay Brussels School of Economics and Management
       year: 2019 
-    - course: Master in Actuarial Sciences
-      institution: Massachusetts Institute of Technology
+    - course: MSc in Actuarial Sciences
+      institution: Institute of Financial Science and Insurances - Lyon University
       year: 2013
+    - course: Erasmus exchange programme
+      institution: Heidelberg University
+      year: 2009  
     - course: BSc in Mathematics
       institution: Grenoble University
       year: 2008
@@ -54,36 +57,36 @@ skills:
       - name: R
         description: ''
         percent: 20
-        icon: R
+        icon: r
         icon_pack: fab
       - name: Python
         description: ''
-        percent: 0
+        percent: 5
         icon: python
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 5
+        percent: 10
         icon: database
         icon_pack: fas
-  - name: Hobbies
+  - name: Economics
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Microfinance
         description: ''
-        percent: 60
-        icon: person-hiking
+        percent: 30
+        icon: coins
         icon_pack: fas
-      - name: Cats
+      - name: Development Economics
         description: ''
-        percent: 100
-        icon: cat
+        percent: 20
+        icon: gears
         icon_pack: fas
-      - name: Photography
+      - name: Research & Communication
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 5
+        icon: book-bookmark
         icon_pack: fas
 
 # Social/Academic Networking
@@ -112,9 +115,9 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-#  - icon: cv
-#    icon_pack: ai
-#    link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
