@@ -25,7 +25,7 @@ organizations:
     url: https://lsetf.ng/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My professional and personal interests include multicultural work, using data science for change, and curiosity for innovation in economic development.
+bio: Professional interests include international cooperation, data science applications, and innovation in development economics, mostly blended together.
 
 # Interests to show in About widget
 interests:
@@ -57,12 +57,12 @@ skills:
       - name: R
         description: ''
         percent: 46
-        icon: rstudio
-        icon_pack: fas
+        icon: r
+        icon_pack: devicon
       - name: Microsoft Power BI
         description: ''
         percent: 23
-        icon: fa-bar-chart
+        icon: chart-simple
         icon_pack: fas
       - name: Project Management
         description: ''
@@ -81,7 +81,7 @@ skills:
       - name: Development Economics
         description: ''
         percent: 32
-        icon: fa-line-chart
+        icon: chart-line
         icon_pack: fas
       - name: Research
         description: ''
