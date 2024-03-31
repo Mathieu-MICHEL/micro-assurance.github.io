@@ -37,12 +37,12 @@ interests:
 education:
   courses:
     - course: Specialized Master in Microfinance
-      institution: Solvay Brussels School of Economics and Management
+      institution: Brussels Free Univeristy (ULB, Solvay)
       year: 2019 
     - course: MSc in Actuarial Sciences
-      institution: Institute of Financial Science and Insurances - Lyon University
+      institution: Lyon University (ISFA)
       year: 2013
-    - course: Erasmus exchange programme
+    - course: Erasmus Exchange Programme
       institution: Heidelberg University
       year: 2009  
     - course: BSc in Mathematics
@@ -56,18 +56,18 @@ skills:
     items:
       - name: R
         description: ''
-        percent: 20
+        percent: 46
         icon: r
-        icon_pack: fab
-      - name: Python
+        icon_pack: devicon
+      - name: Microsoft Power BI
         description: ''
-        percent: 5
-        icon: python
+        percent: 23
+        icon: fa-bar-chart
         icon_pack: fab
-      - name: SQL
+      - name: Project Management
         description: ''
-        percent: 10
-        icon: database
+        percent: 19
+        icon: gears
         icon_pack: fas
   - name: Economics
     color: '#eeac02'
@@ -75,17 +75,17 @@ skills:
     items:
       - name: Microfinance
         description: ''
-        percent: 30
+        percent: 37
         icon: coins
         icon_pack: fas
       - name: Development Economics
         description: ''
-        percent: 20
+        percent: 32
         icon: gears
         icon_pack: fas
-      - name: Research & Communication
+      - name: Research
         description: ''
-        percent: 5
+        percent: 15
         icon: book-bookmark
         icon_pack: fas
 
