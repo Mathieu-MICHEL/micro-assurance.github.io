@@ -37,7 +37,7 @@ interests:
 education:
   courses:
     - course: Specialized Master in Microfinance
-      institution: Brussels Free Univeristy (ULB, Solvay)
+      institution: Brussels Free University (ULB, Solvay)
       year: 2019 
     - course: MSc in Actuarial Sciences
       institution: Lyon University (ISFA)
@@ -57,13 +57,13 @@ skills:
       - name: R
         description: ''
         percent: 46
-        icon: r
-        icon_pack: devicon
+        icon: rstudio
+        icon_pack: fas
       - name: Microsoft Power BI
         description: ''
         percent: 23
         icon: fa-bar-chart
-        icon_pack: fab
+        icon_pack: fas
       - name: Project Management
         description: ''
         percent: 19
@@ -81,12 +81,12 @@ skills:
       - name: Development Economics
         description: ''
         percent: 32
-        icon: gears
+        icon: fa-line-chart
         icon_pack: fas
       - name: Research
         description: ''
         percent: 15
-        icon: book-bookmark
+        icon: book
         icon_pack: fas
 
 # Social/Academic Networking
