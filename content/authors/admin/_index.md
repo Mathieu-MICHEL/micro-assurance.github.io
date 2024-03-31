@@ -57,13 +57,13 @@ skills:
       - name: R
         description: ''
         percent: 46
-        icon: r-project
-        icon_pack: fab
+        icon: database
+        icon_pack: fas
       - name: Microsoft Power BI
         description: ''
         percent: 23
-        icon: microsoft
-        icon_pack: fab
+        icon: display
+        icon_pack: fas
       - name: Project Management
         description: ''
         percent: 19
@@ -81,7 +81,7 @@ skills:
       - name: Development Economics
         description: ''
         percent: 32
-        icon: seedling
+        icon: arrow-trend-up
         icon_pack: fas
       - name: Research
         description: ''
