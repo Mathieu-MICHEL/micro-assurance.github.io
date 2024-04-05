@@ -104,7 +104,7 @@ sections:
           description:  Building reporting tools, monitoring and pricing insurance products (credit, health).
     design:
       columns: '2'
-  - block: continuingEd
+  - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Continuing Education (I would recommend)'
