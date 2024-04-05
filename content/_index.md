@@ -117,24 +117,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/LQNTDZFHHEXH?utm_product=s12n
+        - certificate_url: 'https://www.coursera.org/account/accomplishments/specialization/LQNTDZFHHEXH?utm_product=s12n'
           date_end: ''
           date_start: '2021-12-13'
           description: 'The course covers the concepts and tools for an entire data science pipeline.'
           icon: coursera
           organization: Coursera
-          organization_url: https://www.coursera.org
+          organization_url: 'https://www.coursera.org'
           title: Data Science Specialization
-          url: https://www.coursera.org/specializations/jhu-data-science
-        - certificate_url: https://micromasters.mit.edu/certificate/program/b12ab4b1ed7f17ff079ab6667f37a052
+          url: 'https://www.coursera.org/specializations/jhu-data-science'
+        - certificate_url: 'https://micromasters.mit.edu/certificate/program/b12ab4b1ed7f17ff079ab6667f37a052'
           date_end: ''
           date_start: '2019-05-24'
           description: 'Created to equip learners with the practical skills and theoretical knowledge to tackle some of the most pressing challenges facing developing countries and the world's poor.'
           icon: edx
           organization: edX
-          organization_url: https://www.edx.org
+          organization_url: 'https://www.edx.org'
           title: MicroMasters Credential in Data, Economics, and Development Policy
-          url: https://micromasters.mit.edu/dedp/
+          url: 'https://micromasters.mit.edu/dedp/'
     design:
       columns: '2'
   - block: collection
