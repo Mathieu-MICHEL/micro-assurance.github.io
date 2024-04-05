@@ -62,33 +62,52 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Head of Employability
+          company: Lagos State Employment Trust Fund, seconded from GIZ
+          company_url: 'https://lsetf.ng/'
+          company_logo: org-lsetf
+          location: Nigeria, Lagos
+          date_start: '2023-02-01'
           date_end: ''
+          description: |2- 
+              * Program Management: set-up and monitoring of vocational trainings (~2,000 students per year),
+              * Product development: technical support and web development of the Lagos State Labour Market Information System,
+              * Market Research,
+              * Stakeholders' engagement.
+        - title: Develoment Advisor
+          company: GIZ
+          company_url: 'https://www.giz.de'
+          company_logo: org-giz
+          location: Rwanda, Kirehe
+          date_start: '2020-04-01'
+          date_end: '2022-03-01'
+          description: In partnership with UNHCR, monitor a livelihood program for refugees and host community in Mahama camp (skill training, access to finance, business promotion). 
+        - title: Program Manager - Economic Development and Health Mutual Fund 
+          company: ATIA
+          company_url: 'https://www.atia-ong.org/'
+          company_logo: org-atia
+          location: India, Mumbai
+          date_start: '2016-04-01'
+          date_end: '2018-08-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Operational audit of field work,
+              * Financial audit and funds tracking,
+              * Design and Monitoring of services evolution,
+              * Monitoring a long-term phase-out plan towards sustainability of the local partners.
+        - title: Trainee/Junior Actuary 
+          company: Axeria Prevoyance, April Group
+          company_url: 'https://www.april.fr/'
+          company_logo: org-april
+          location: France, Lyon
+          date_start: '2011-06-01'
+          date_end: '2016-03-01'
+          description:  Building reporting tools, monitoring and pricing insurance products (credit, health).
     design:
       columns: '2'
-  - block: accomplishments
+  - block: continuingEd
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Continuing Education (I would recommend)'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
