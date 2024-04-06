@@ -129,7 +129,7 @@ sections:
         - certificate_url: 'https://micromasters.mit.edu/certificate/program/b12ab4b1ed7f17ff079ab6667f37a052'
           date_end: ''
           date_start: '2019-05-24'
-          description: 'Created to equip learners with the practical skills and theoretical knowledge to tackle some of the most pressing challenges facing developing countries and the world's poor.'
+          description: 'Created to equip learners with the practical skills and theoretical knowledge to tackle some of the most pressing challenges facing developing countries and the poor globally.'
           icon: edx
           organization: edX
           organization_url: 'https://www.edx.org'
