@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Head of Employability
+        - title: Head of Employability - Skills training & Analytics
           company: Lagos State Employment Trust Fund, seconded from GIZ
           company_url: 'https://lsetf.ng/'
           company_logo: org-lsetf
@@ -70,19 +70,18 @@ sections:
           date_start: '2023-02-01'
           date_end: ''
           description: |2- 
-              * Program Management: set-up and monitoring of vocational trainings (~2,000 students per year),
-              * Product development: technical support and web development of the Lagos State Labour Market Information System,
-              * Market Research,
-              * Stakeholders' engagement.
-        - title: Develoment Advisor
+              * Program Management: set-up and monitoring of vocational trainings,
+              * Product development: data and web development of the Lagos Labour Market Information System,
+              * Stakeholders' engagement & Market Research.
+        - title: Develoment Advisor - Economic development for Refugees & Host communities
           company: GIZ
           company_url: 'https://www.giz.de'
           company_logo: org-giz
           location: Rwanda, Kirehe
           date_start: '2020-04-01'
           date_end: '2022-03-01'
-          description: In partnership with UNHCR, monitor a livelihood program for refugees and host community in Mahama camp (skill training, access to finance, business promotion). 
-        - title: Program Manager - Economic Development and Health Mutual Fund 
+          description: In partnership with UNHCR, implementation and monitoring of a livelihood program in Mahama camp (skill training, access to finance, business promotion). 
+        - title: Program Manager - Income generation & Health insurance 
           company: ATIA
           company_url: 'https://www.atia-ong.org/'
           company_logo: org-atia
