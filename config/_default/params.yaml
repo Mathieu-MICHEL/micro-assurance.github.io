@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Coffee
-  theme_night: Coffee
-  font: Classic
-  font_size: L
+  theme_day: Forest
+  theme_night: Forest
+  font: Default
+  font_size: M
 
 # SEO
 

@@ -36,7 +36,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Specialized Master in Microfinance
+    - course: Advanced Master in Microfinance
       institution: Brussels Free University (ULB, Solvay)
       year: 2019 
     - course: MSc in Actuarial Sciences
@@ -53,6 +53,8 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Data Science
+    color: '#4D4DFF'
+    color_border: '#0000FF'
     items:
       - name: R
         description: ''
@@ -70,8 +72,8 @@ skills:
         icon: gears
         icon_pack: fas
   - name: Economics
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#FF4D4D'
+    color_border: '#FF0000'
     items:
       - name: Microfinance
         description: ''
@@ -123,5 +125,5 @@ social:
 highlight_name: true
 ---
 
-I'm Mathieu, working in international cooperation, and trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly. My current position is at the Lagos State Employment Trust Fund in Nigeria, seconded from the German international cooperation agency GIZ: I manage in a small team several training projects and the development of labour market analytics tools. This page is for blogging, showcasing online products and networking. If you resonate with the work, feel free to engage on social media, best,  
+I am working in the field of international cooperation, while I was originally trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly. My current position is at the Lagos State Employment Trust Fund in Nigeria, seconded from the German international cooperation agency GIZ: I manage a small team implementing several training projects and the development of labour market analytics tools. This page is for blogging, showcasing online products and networking. If you resonate with the work, feel free to engage on social media, best,  
 {style="text-align: justify;"}

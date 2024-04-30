@@ -42,14 +42,6 @@ sections:
       title: Hello, welcome to my page,
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: experience
     id: experience
     content:
@@ -146,6 +138,14 @@ sections:
         #   url: 'https://micromasters.mit.edu/dedp/'
     design:
       columns: '2'
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   # - block: collection
   #   id: posts
   #   content:
