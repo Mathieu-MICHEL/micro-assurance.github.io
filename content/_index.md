@@ -146,11 +146,12 @@ sections:
       username: admin
     design:
       columns: '1'
-  - block: blogging
+  - block: collection
+    id: blogging
     content:
       title: Blogging
       text:
-            ''
+            '<a class="twitter-timeline" href="https://twitter.com/MichelM08120510?ref_src=twsrc%5Etfw">Tweets by MichelM08120510</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> '
 
     design:
       columns: '1'
