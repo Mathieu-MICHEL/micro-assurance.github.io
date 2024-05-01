@@ -125,5 +125,6 @@ social:
 highlight_name: true
 ---
 
-I am working in the field of international cooperation, while I was originally trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly. My current position is at the Lagos State Employment Trust Fund in Nigeria, seconded from the German international cooperation agency GIZ: I manage a small team implementing several training projects and the development of labour market analytics tools. This page is for blogging, showcasing online products and networking. If you resonate with the work, feel free to engage on social media, best,  
+I am working in the field of international cooperation, while initially trained as a data analyst, I try to keep up with development economics and data science advancements, using R mostly. My current position is at the [Lagos State Employment Trust Fund](https://lsetf.ng/) in Nigeria, seconded from the [German international cooperation agency GIZ](https://www.giz.de/): I manage a small team implementing several training projects and the development of labour market analytics tools. This page is for blogging, showcasing online products and networking. 
+If you resonate with the work, feel free to engage on social media, best,  
 {style="text-align: justify;"}
