@@ -147,7 +147,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: blogging
+    id: posts
     content:
       title: Blogging
       text:

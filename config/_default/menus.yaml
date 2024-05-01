@@ -11,7 +11,7 @@ main:
     url: '#experience'
     weight: 20
   - name: Blogging
-    url: '#blogging'
+    url: '#posts'
     weight: 30
   # - name: Projects
   #   url: '#projects'
