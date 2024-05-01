@@ -53,8 +53,8 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Data Science
-    color: '#4D4DFF'
-    color_border: '#0000FF'
+    color: '#4287f5'
+    color_border: '#4287f5'
     items:
       - name: R
         description: ''
@@ -72,8 +72,8 @@ skills:
         icon: gears
         icon_pack: fas
   - name: Economics
-    color: '#FF4D4D'
-    color_border: '#FF0000'
+    color: '#ff4d4d'
+    color_border: '#ff4d4d'
     items:
       - name: Microfinance
         description: ''
