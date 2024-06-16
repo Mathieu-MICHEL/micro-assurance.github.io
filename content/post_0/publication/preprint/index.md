@@ -17,10 +17,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: This paper provides a financial analysis of microfinance-plus providers, through the study of a global dataset of MFIs based on rating reports.
+abstract: My Master thesis addressed some topics on microfinance-plus and I am currently reworking it. The angle is to differentiate microfinance-plus providers through financial analysis, tested on a global dataset of MFIs based on rating reports.
 
 # Summary. An optional shortened abstract.
-summary: This paper provides a financial analysis of microfinance-plus providers, through the study of a global dataset of MFIs based on rating reports.
+summary: My Master thesis addressed some topics on microfinance-plus and I am currently reworking it. The angle is to differentiate microfinance-plus providers through financial analysis, tested on a global dataset of MFIs based on rating reports.
 
 tags:
 - Source Themes
@@ -29,14 +29,14 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
