@@ -11,8 +11,9 @@ external_link: https://lagoslmis.ng
 image:
   caption: Lagos LMIS Dashboard
   focal_point: Smart
+---
 
-
+<!-- ---
 title: LSETF eLearning
 summary: The Lagos State Employment Trust Fund develops a simple online course platform using the Moodle system. 
 tags:
@@ -25,4 +26,4 @@ external_link: https://elearning.lsetf.ng
 image:
   caption: LSETF eLearning
   focal_point: Smart
----
+--- -->
