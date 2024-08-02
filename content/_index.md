@@ -182,7 +182,7 @@ sections:
   #     # Choose a layout view
   #     view: compact
   #     columns: '2'
-  # - block: portfolio
+  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -201,6 +201,8 @@ sections:
           tag: '*'
         - name: 
           tag: Demo
+        - name: 
+          tag: Demo2  
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
