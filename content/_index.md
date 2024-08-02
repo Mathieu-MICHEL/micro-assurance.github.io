@@ -150,6 +150,9 @@ sections:
     id: posts
     content:
       title: Blogging
+      filters:
+        folders:
+          - blogging
       text:
             '<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice reminder in FT podcast: <a href="https://t.co/Tu84dciiKz">https://t.co/Tu84dciiKz</a> on healthier and effective work: emails meetings reports deadlines are somewhat pretend-work but doing better is possible and starts in our own head. <a href="https://twitter.com/hashtag/productivity?src=hash&amp;ref_src=twsrc%5Etfw">#productivity</a> <a href="https://twitter.com/hashtag/worldofwork?src=hash&amp;ref_src=twsrc%5Etfw">#worldofwork</a> <a href="https://twitter.com/hashtag/futureofwork?src=hash&amp;ref_src=twsrc%5Etfw">#futureofwork</a></p>&mdash; Mathieu Michel (@MichelM08120510) <a href="https://twitter.com/MichelM08120510/status/1791176707031876051?ref_src=twsrc%5Etfw">May 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>'
 
